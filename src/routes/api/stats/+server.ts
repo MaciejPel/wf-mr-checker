@@ -51,7 +51,8 @@ export const GET: RequestHandler = async ({ url }) => {
 	if (!playerId || playerId.length !== 24) error(400, { message: "Invalid playerId" });
 
 	const response = await fetch(
-		`https://content.warframe.com/dynamic/getProfileViewingData.php?playerId=${playerId}`
+		`https://content.warframe.com/dynamic/getProfileViewingData.php?playerId=${playerId}`,
+		{ redirect: "follow" }
 	);
 	const data: ContentWeaponType = await response.json();
 
