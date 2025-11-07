@@ -57,13 +57,19 @@ export const GET: RequestHandler = async ({ url }) => {
 		`https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}`,
 		{
 			headers: {
-				"User-Agent":
-					"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+				"User-Agent": "Mozilla/5.0 (compatible; mwfapp/1.0)",
 				Accept: "*/*",
 			},
 		}
 	);
-	const data: ContentWeaponType = JSON.parse(await response.text());
+	const text = await response.text();
+
+	if (!response.ok) {
+		console.error("API error:", response.status, text);
+		error(500, { message: "endpoint error" });
+	}
+
+	const data: ContentWeaponType = JSON.parse(text);
 
 	return json(data.Stats.Weapons.map((v) => ({ xp: v.xp || 0, uniqueName: v.type })));
 };
