@@ -54,13 +54,7 @@ export const GET: RequestHandler = async ({ url }) => {
 	if (!playerId || playerId.length !== 24) error(400, { message: "Invalid playerId" });
 
 	const response = await fetch(
-		`https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}`,
-		{
-			headers: {
-				"User-Agent": "Mozilla/5.0 (compatible; mwfapp/1.0)",
-				Accept: "*/*",
-			},
-		}
+		`https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}`
 	);
 	const text = await response.text();
 
