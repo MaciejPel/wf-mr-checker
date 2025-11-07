@@ -54,9 +54,9 @@ export const GET: RequestHandler = async ({ url }) => {
 	if (!playerId || playerId.length !== 24) error(400, { message: "Invalid playerId" });
 
 	const response = await fetch(
-		`https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}`
+		`https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}`,
+		{ headers: { "User-Agent": "Mozilla/5.0 (compatible; MyApp/1.0)" } }
 	);
-	console.log(response.status, response.body, await response.text());
 	const data: ContentWeaponType = JSON.parse(await response.text());
 
 	return json(data.Stats.Weapons.map((v) => ({ xp: v.xp || 0, uniqueName: v.type })));
