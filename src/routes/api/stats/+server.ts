@@ -56,6 +56,7 @@ export const GET: RequestHandler = async ({ url }) => {
 	const response = await fetch(
 		`https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}`
 	);
+	console.log(response.status, response.body, await response.text());
 	const data: ContentWeaponType = JSON.parse(await response.text());
 
 	return json(data.Stats.Weapons.map((v) => ({ xp: v.xp || 0, uniqueName: v.type })));
