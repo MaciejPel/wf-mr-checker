@@ -1,7 +1,10 @@
 import { error, json, type RequestHandler } from "@sveltejs/kit";
 
-// why does this not work most of the time
-// const response = await fetch(`https://api.warframestat.us/profile/${player.id}/stats?`);
+// why these do not work most of the time
+// https://api.warframestat.us/profile/${playerId}/stats?
+// https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}
+// https://content.warframe.com/dynamic/getProfileViewingData.php?playerId=${playerId}
+
 // yes, this is really simlified
 export type ContentWeaponType = {
 	Results: Array<{
@@ -51,10 +54,9 @@ export const GET: RequestHandler = async ({ url }) => {
 	if (!playerId || playerId.length !== 24) error(400, { message: "Invalid playerId" });
 
 	const response = await fetch(
-		`https://content.warframe.com/dynamic/getProfileViewingData.php?playerId=${playerId}`,
-		{ redirect: "follow" }
+		`https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}`
 	);
-	const data: ContentWeaponType = await response.json();
+	const data: ContentWeaponType = JSON.parse(await response.text());
 
 	return json(data.Stats.Weapons.map((v) => ({ xp: v.xp || 0, uniqueName: v.type })));
 };
