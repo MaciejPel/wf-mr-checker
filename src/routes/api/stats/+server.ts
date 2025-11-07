@@ -55,7 +55,13 @@ export const GET: RequestHandler = async ({ url }) => {
 
 	const response = await fetch(
 		`https://api.warframe.com/cdn/getProfileViewingData.php?playerId=${playerId}`,
-		{ headers: { "User-Agent": "Mozilla/5.0 (compatible; MyApp/1.0)" } }
+		{
+			headers: {
+				"User-Agent":
+					"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+				Accept: "*/*",
+			},
+		}
 	);
 	const data: ContentWeaponType = JSON.parse(await response.text());
 
