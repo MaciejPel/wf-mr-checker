@@ -474,6 +474,7 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Staff/GrnStaff",
 		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Amphis.png?fb18b",
 		"wikiaUrl": "https://wiki.warframe.com/w/Amphis"
 	},
 	{
@@ -512,6 +513,7 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Scythe/ParisScythe/ParisScythe",
 		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Anku.png?6a32d",
 		"wikiaUrl": "https://wiki.warframe.com/w/Anku"
 	},
 	{
@@ -524,6 +526,7 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Gauntlet/Gauntlet",
 		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Ankyros.png?e40f8",
 		"wikiaUrl": "https://wiki.warframe.com/w/Ankyros"
 	},
 	{
@@ -536,7 +539,21 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Gauntlet/PrimeAnkyros/PrimeAnkyros",
 		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/AnkyrosPrime.png?3beee",
 		"wikiaUrl": "https://wiki.warframe.com/w/Ankyros_Prime"
+	},
+	{
+		"category": "Arch-Gun",
+		"imageName": "arbucep-6cabdc8f25.png",
+		"isPrime": false,
+		"masterable": true,
+		"masteryReq": 0,
+		"name": "Arbucep",
+		"type": "Arch-Gun",
+		"uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/NokkoArchGun/NokkoArchGun",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Arbucep.png?37aa2",
+		"wikiaUrl": "https://wiki.warframe.com/w/Arbucep"
 	},
 	{
 		"category": "Primary",
@@ -574,6 +591,7 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Corpus/Melee/Hammer/CorpusHammerWeapon",
 		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/ArcaTitron.png?125c4",
 		"wikiaUrl": "https://wiki.warframe.com/w/Arca_Titron"
 	},
 	{
@@ -584,7 +602,9 @@
 		"masteryReq": 0,
 		"name": "Argo & Vel",
 		"type": "Melee",
-		"uniqueName": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/DaxDuviriMaceShieldWeapon"
+		"uniqueName": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/DaxDuviriMaceShieldWeapon",
+		"wikiAvailable": true,
+		"wikiaUrl": "https://wiki.warframe.com/w/Argo_%26_Vel"
 	},
 	{
 		"category": "Primary",
@@ -761,7 +781,10 @@
 		"masteryReq": 12,
 		"name": "Ax-52",
 		"type": "Rifle",
-		"uniqueName": "/Lotus/Weapons/Lasria/AK47/TC2024AK47Weapon"
+		"uniqueName": "/Lotus/Weapons/Lasria/AK47/TC2024AK47Weapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/AX-52.png?5aa25",
+		"wikiaUrl": "https://wiki.warframe.com/w/AX-52"
 	},
 	{
 		"category": "Secondary",
@@ -1387,7 +1410,6 @@
 		"type": "Kitgun Component",
 		"uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelAPart",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/Catchmoon.png?ec717",
 		"wikiaUrl": "https://wiki.warframe.com/w/Catchmoon_(Primary)"
 	},
 	{
@@ -1613,7 +1635,10 @@
 		"name": "Coda Bassocyst",
 		"type": "Shotgun",
 		"maxLevelCap": 40,
-		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/1999InfShotgun/1999InfShotgunWeapon"
+		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/1999InfShotgun/1999InfShotgunWeapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/CodaBassocyst.png?2407f",
+		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Bassocyst"
 	},
 	{
 		"category": "Secondary",
@@ -1638,7 +1663,9 @@
 		"name": "Coda Caustacyst",
 		"type": "Melee",
 		"maxLevelCap": 40,
-		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaCaustacyst/CodaCaustacyst"
+		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaCaustacyst/CodaCaustacyst",
+		"wikiAvailable": true,
+		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Caustacyst"
 	},
 	{
 		"category": "Primary",
@@ -1649,7 +1676,10 @@
 		"name": "Coda Hema",
 		"type": "Rifle",
 		"maxLevelCap": 40,
-		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaHema"
+		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaHema",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/CodaHema.png?f76ee",
+		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Hema"
 	},
 	{
 		"category": "Melee",
@@ -1699,7 +1729,9 @@
 		"name": "Coda Pathocyst",
 		"type": "Melee",
 		"maxLevelCap": 40,
-		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaPathocyst/CodaPathocyst"
+		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaPathocyst/CodaPathocyst",
+		"wikiAvailable": true,
+		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Pathocyst"
 	},
 	{
 		"category": "Secondary",
@@ -1738,7 +1770,10 @@
 		"name": "Coda Synapse",
 		"type": "Rifle",
 		"maxLevelCap": 40,
-		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaSynapse"
+		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaSynapse",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/CodaSynapse.png?6edfb",
+		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Synapse"
 	},
 	{
 		"category": "Secondary",
@@ -1749,7 +1784,10 @@
 		"name": "Coda Tysis",
 		"type": "Pistol",
 		"maxLevelCap": 40,
-		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/CodaTysis"
+		"uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/CodaTysis",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/CodaTysis.png?09ea2",
+		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Tysis"
 	},
 	{
 		"category": "Primary",
@@ -1948,7 +1986,10 @@
 		"masteryReq": 0,
 		"name": "Dagath",
 		"type": "Warframe",
-		"uniqueName": "/Lotus/Powersuits/Dagath/Dagath"
+		"uniqueName": "/Lotus/Powersuits/Dagath/Dagath",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Dagath.png?4b231",
+		"wikiaUrl": "https://wiki.warframe.com/w/Dagath"
 	},
 	{
 		"category": "Primary",
@@ -1996,7 +2037,10 @@
 		"masteryReq": 0,
 		"name": "Dante",
 		"type": "Warframe",
-		"uniqueName": "/Lotus/Powersuits/Pagemaster/Pagemaster"
+		"uniqueName": "/Lotus/Powersuits/Pagemaster/Pagemaster",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Dante.png?c0761",
+		"wikiaUrl": "https://wiki.warframe.com/w/Dante"
 	},
 	{
 		"category": "Melee",
@@ -2117,7 +2161,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/TnoRapier/TnoRapier",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/Destreza.png?52b66",
 		"wikiaUrl": "https://wiki.warframe.com/w/Destreza"
 	},
 	{
@@ -2130,7 +2173,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PRapier/DestrezaPrime",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DestrezaPrime.png?ad25e",
 		"wikiaUrl": "https://wiki.warframe.com/w/Destreza_Prime"
 	},
 	{
@@ -2208,7 +2250,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/DexTheSecond/DexTheSecond",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DexDakra.png?05557",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dex_Dakra"
 	},
 	{
@@ -2234,7 +2275,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Dex2023Nikana/Dex2023Nikana",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DexNikana.png?3e3b7",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dex_Nikana"
 	},
 	{
@@ -2295,7 +2335,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/TnDagathBladeWhip/TnDagathBladeWhip",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/Dorrclave.png?30250",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dorrclave"
 	},
 	{
@@ -2308,7 +2347,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DragonNikana.png?20efa",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dragon_Nikana"
 	},
 	{
@@ -2360,7 +2398,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DualCleavers.png?547b9",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dual_Cleavers"
 	},
 	{
@@ -2400,7 +2437,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualEtherSword",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DualEther.png?e911b",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dual_Ether"
 	},
 	{
@@ -2413,7 +2449,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DualHeatSwords.png?bd93b",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dual_Heat_Swords"
 	},
 	{
@@ -2426,7 +2461,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Axe/DualInfestedAxesWeapon",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DualIchor.png?caea1",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dual_Ichor"
 	},
 	{
@@ -2439,7 +2473,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/DualKamas/DualKamas",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DualKamas.png?9ed01",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dual_Kamas"
 	},
 	{
@@ -2452,7 +2485,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/PrimeDualKamas/PrimeDualKamas",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DualKamasPrime.png?17c92",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dual_Kamas_Prime"
 	},
 	{
@@ -2504,7 +2536,7 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualShortSword",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/DualSkana.png?af2c5",
+		"wikiaThumbnail": "https://wiki.warframe.com/images/DualSkana.png?96f23",
 		"wikiaUrl": "https://wiki.warframe.com/w/Dual_Skana"
 	},
 	{
@@ -2580,7 +2612,10 @@
 		"masteryReq": 14,
 		"name": "Efv-5 Jupiter",
 		"type": "Rifle",
-		"uniqueName": "/Lotus/Weapons/Lasria/LasGooAK/LasGooAKPlayerWeapon"
+		"uniqueName": "/Lotus/Weapons/Lasria/LasGooAK/LasGooAKPlayerWeapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/EFV-5Jupiter.png?be8ed",
+		"wikiaUrl": "https://wiki.warframe.com/w/EFV-5_Jupiter"
 	},
 	{
 		"category": "Secondary",
@@ -2590,7 +2625,10 @@
 		"masteryReq": 14,
 		"name": "Efv-8 Mars",
 		"type": "Pistol",
-		"uniqueName": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon"
+		"uniqueName": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/EFV-8Mars.png?be8ed",
+		"wikiaUrl": "https://wiki.warframe.com/w/EFV-8_Mars"
 	},
 	{
 		"category": "Melee",
@@ -3227,7 +3265,6 @@
 		"type": "Kitgun Component",
 		"uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelDPart",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/Gaze.png?c5125",
 		"wikiaUrl": "https://wiki.warframe.com/w/Gaze_(Primary)"
 	},
 	{
@@ -3329,7 +3366,10 @@
 		"masteryReq": 14,
 		"name": "Gotva Prime",
 		"type": "Rifle",
-		"uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnOrokinRifle/GrnOrokinRifleWeapon"
+		"uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnOrokinRifle/GrnOrokinRifleWeapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/GotvaPrime.png?d08b7",
+		"wikiaUrl": "https://wiki.warframe.com/w/Gotva_Prime"
 	},
 	{
 		"category": "Primary",
@@ -3583,7 +3623,10 @@
 		"masteryReq": 0,
 		"name": "Harrow Prime",
 		"type": "Warframe",
-		"uniqueName": "/Lotus/Powersuits/Priest/HarrowPrime"
+		"uniqueName": "/Lotus/Powersuits/Priest/HarrowPrime",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/HarrowPrime.png?9cd5a",
+		"wikiaUrl": "https://wiki.warframe.com/w/Harrow%2FPrime"
 	},
 	{
 		"category": "Melee",
@@ -3744,7 +3787,10 @@
 		"masteryReq": 2,
 		"name": "Higasa",
 		"type": "Rifle",
-		"uniqueName": "/Lotus/Weapons/Tenno/LongGuns/Gunbrella/ShrineMaidenGunbrellaWeapon"
+		"uniqueName": "/Lotus/Weapons/Tenno/LongGuns/Gunbrella/ShrineMaidenGunbrellaWeapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Higasa.png?40efb",
+		"wikiaUrl": "https://wiki.warframe.com/w/Higasa"
 	},
 	{
 		"category": "Secondary",
@@ -3793,7 +3839,10 @@
 		"masteryReq": 0,
 		"name": "Hildryn Prime",
 		"type": "Warframe",
-		"uniqueName": "/Lotus/Powersuits/IronFrame/IronFramePrime"
+		"uniqueName": "/Lotus/Powersuits/IronFrame/IronFramePrime",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/HildrynPrime.png?36b86",
+		"wikiaUrl": "https://wiki.warframe.com/w/Hildryn%2FPrime"
 	},
 	{
 		"category": "Primary",
@@ -4345,7 +4394,10 @@
 		"masteryReq": 13,
 		"name": "Kompressa Prime",
 		"type": "Pistol",
-		"uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa"
+		"uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/KompressaPrime.png?bba71",
+		"wikiaUrl": "https://wiki.warframe.com/w/Kompressa_Prime"
 	},
 	{
 		"category": "Melee",
@@ -4733,7 +4785,10 @@
 		"name": "Kuva Sobek",
 		"type": "Rifle",
 		"maxLevelCap": 40,
-		"uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Sobek/KuvaSobek"
+		"uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Sobek/KuvaSobek",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/KuvaSobek.png?94bd0",
+		"wikiaUrl": "https://wiki.warframe.com/w/Kuva_Sobek"
 	},
 	{
 		"category": "Primary",
@@ -5778,6 +5833,19 @@
 	},
 	{
 		"category": "Warframes",
+		"imageName": "nokko-519627ee77.png",
+		"isPrime": false,
+		"masterable": true,
+		"masteryReq": 0,
+		"name": "Nokko",
+		"type": "Warframe",
+		"uniqueName": "/Lotus/Powersuits/Nokko/Nokko",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Nokko.png?34082",
+		"wikiaUrl": "https://wiki.warframe.com/w/Nokko"
+	},
+	{
+		"category": "Warframes",
 		"imageName": "nova-1f908986f1.png",
 		"isPrime": false,
 		"masterable": true,
@@ -6298,7 +6366,8 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Infested/Melee/InfBoomerang/InfBoomerangWeapon",
 		"wikiAvailable": true,
-		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Pathocyst"
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Pathocyst.png?a51a6",
+		"wikiaUrl": "https://wiki.warframe.com/w/Pathocyst"
 	},
 	{
 		"category": "Melee",
@@ -6827,7 +6896,10 @@
 		"masteryReq": 0,
 		"name": "Qorvex",
 		"type": "Warframe",
-		"uniqueName": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame"
+		"uniqueName": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Qorvex.png?815ba",
+		"wikiaUrl": "https://wiki.warframe.com/w/Qorvex"
 	},
 	{
 		"category": "Primary",
@@ -7388,7 +7460,7 @@
 		"type": "Throwing",
 		"uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnOraxiaFlechette/TnOraxiaFlechette",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/Scyotid.png?d8a2e",
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Scyotid.png?89651",
 		"wikiaUrl": "https://wiki.warframe.com/w/Scyotid"
 	},
 	{
@@ -7656,7 +7728,10 @@
 		"masteryReq": 0,
 		"name": "Sirocco",
 		"type": "Pistol",
-		"uniqueName": "/Lotus/Weapons/Operator/Pistols/DrifterPistol/DrifterPistolPlayerWeapon"
+		"uniqueName": "/Lotus/Weapons/Operator/Pistols/DrifterPistol/DrifterPistolPlayerWeapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Sirocco.png?76b26",
+		"wikiaUrl": "https://wiki.warframe.com/w/Sirocco"
 	},
 	{
 		"category": "Melee",
@@ -8139,6 +8214,7 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/DaxDuviriKatana/DaxDuviriKatanaWeapon",
 		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Syam.png?3e7f0",
 		"wikiaUrl": "https://wiki.warframe.com/w/Syam"
 	},
 	{
@@ -8177,6 +8253,7 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnTrident/GrnTridentWeapon",
 		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Sydon.png?f87f3",
 		"wikiaUrl": "https://wiki.warframe.com/w/Sydon"
 	},
 	{
@@ -8189,8 +8266,8 @@
 		"type": "Rifle",
 		"uniqueName": "/Lotus/Weapons/Infested/LongGuns/InfestedRifle",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/CodaSynapse.png?6edfb",
-		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Synapse"
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Synapse.png?4e9a1",
+		"wikiaUrl": "https://wiki.warframe.com/w/Synapse"
 	},
 	{
 		"category": "Secondary",
@@ -8215,6 +8292,7 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Syndicates/CephalonSuda/Melee/CSHeliocor",
 		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/SynoidHeliocor.png?f02b7",
 		"wikiaUrl": "https://wiki.warframe.com/w/Synoid_Heliocor"
 	},
 	{
@@ -8375,7 +8453,10 @@
 		"masteryReq": 0,
 		"name": "Temple",
 		"type": "Warframe",
-		"uniqueName": "/Lotus/Powersuits/Temple/Temple"
+		"uniqueName": "/Lotus/Powersuits/Temple/Temple",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Temple.png?1e14f",
+		"wikiaUrl": "https://wiki.warframe.com/w/Temple"
 	},
 	{
 		"category": "Melee",
@@ -8636,6 +8717,19 @@
 	},
 	{
 		"category": "Primary",
+		"imageName": "thornbak-2b716e3252.png",
+		"isPrime": false,
+		"masterable": true,
+		"masteryReq": 0,
+		"name": "Thornbak",
+		"type": "Rifle",
+		"uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnModQuestRifle/TnModQuestRifleWeapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Thornbak.png?ac555",
+		"wikiaUrl": "https://wiki.warframe.com/w/Thornbak"
+	},
+	{
+		"category": "Primary",
 		"imageName": "tiberon-9bea2c1863.png",
 		"isPrime": false,
 		"masterable": true,
@@ -8845,7 +8939,10 @@
 		"masteryReq": 15,
 		"name": "Trumna Prime",
 		"type": "Rifle",
-		"uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeTrumna/PrimeTrumnaWeapon"
+		"uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeTrumna/PrimeTrumnaWeapon",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/TrumnaPrime.png?e7b4e",
+		"wikiaUrl": "https://wiki.warframe.com/w/Trumna_Prime"
 	},
 	{
 		"category": "Melee",
@@ -8895,7 +8992,7 @@
 		"type": "Pistol",
 		"uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/TwinKohmak.png?e4621",
+		"wikiaThumbnail": "https://wiki.warframe.com/images/TwinKohmak.png?77ae6",
 		"wikiaUrl": "https://wiki.warframe.com/w/Twin_Kohmak"
 	},
 	{
@@ -8959,8 +9056,8 @@
 		"type": "Pistol",
 		"uniqueName": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/CodaTysis.png?09ea2",
-		"wikiaUrl": "https://wiki.warframe.com/w/Coda_Tysis"
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Tysis.png?35fde",
+		"wikiaUrl": "https://wiki.warframe.com/w/Tysis"
 	},
 	{
 		"category": "Primary",
@@ -9435,7 +9532,10 @@
 		"masteryReq": 0,
 		"name": "Voruna",
 		"type": "Warframe",
-		"uniqueName": "/Lotus/Powersuits/Werewolf/Werewolf"
+		"uniqueName": "/Lotus/Powersuits/Werewolf/Werewolf",
+		"wikiAvailable": true,
+		"wikiaThumbnail": "https://wiki.warframe.com/images/Voruna.png?3ec67",
+		"wikiaUrl": "https://wiki.warframe.com/w/Voruna"
 	},
 	{
 		"category": "Primary",
@@ -9537,7 +9637,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/WolfSledge.png?02419",
 		"wikiaUrl": "https://wiki.warframe.com/w/Wolf_Sledge"
 	},
 	{
@@ -9624,7 +9723,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/Xoris.png?5c2e5",
 		"wikiaUrl": "https://wiki.warframe.com/w/Xoris"
 	},
 	{
@@ -9702,7 +9800,6 @@
 		"type": "Melee",
 		"uniqueName": "/Lotus/Weapons/Tenno/Melee/SunDialAxe/SundialAxeWeapon",
 		"wikiAvailable": true,
-		"wikiaThumbnail": "https://wiki.warframe.com/images/Zenistar.png?27d70",
 		"wikiaUrl": "https://wiki.warframe.com/w/Zenistar"
 	},
 	{
